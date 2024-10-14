@@ -4,7 +4,6 @@
 
 Submission ini bertujuan untuk menganalisis data E-Commerce Public Dataset
 
-## Struktur Direktori
-- **data**: Direktori ini berisi data yang digunakan
-- **dashboard**: Direktori ini berisi
-- **E - Commerc.ipynb**: File ini yang digunakan untuk melakukan analisis data
+## Mnejalankan dashboard
+- **data**: install requirenments pip install pandas numpy matplotlib seaborn streamlit
+- **dashboard**: run streamlit run dashboard.py
