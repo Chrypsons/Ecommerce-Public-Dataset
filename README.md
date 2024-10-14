@@ -5,5 +5,18 @@
 Submission ini bertujuan untuk menganalisis data E-Commerce Public Dataset
 
 ## Mnejalankan dashboard
-- install requirenments pip install pandas numpy matplotlib seaborn streamlit
-- run streamlit run dashboard.py
+1. Masuk ke direktori:
+
+   ```shell
+   cd submission/dashboard/
+   ```
+1. Install packages:
+
+   ```shell
+   pip install -r requirements.txt
+   ```
+1. Run steamlit:
+
+   ```shell
+   streamlit run dashboard.py
+   ```
