@@ -4,7 +4,7 @@
 
 Submission ini bertujuan untuk menganalisis data E-Commerce Public Dataset
 
-## Mnejalankan dashboard
+## Menjalankan dashboard
 1. Masuk ke direktori:
 
    ```shell
